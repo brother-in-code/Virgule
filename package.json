@@ -1,0 +1,23 @@
+{
+  "name": "virgule",
+  "version": "1.0.0",
+  "description": "Virgule (*vir•gule*) is a Javascript plugin that do one thing, set focus on an input field (typically search input) using virgule (/) key.",
+  "main": "virgule.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brother-in-code/Virgule.git"
+  },
+  "keywords": [
+    "search",
+    "focus"
+  ],
+  "author": "Brother in Code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brother-in-code/Virgule/issues"
+  },
+  "homepage": "https://github.com/brother-in-code/Virgule"
+}
