@@ -2,6 +2,18 @@
 
 Virgule (*vir•gule*) is a Javascript plugin that do one thing, set focus on an input field (typically search input) using virgule (/) key.
 
+## Install
+
+bower:
+```Bash
+bower i virgule --save
+```
+
+npm:
+```Bash
+npm i virgule --save
+```
+
 ## How to use
 
 Given the markup
@@ -23,6 +35,13 @@ Virgule also accept a dom element so the code above can be written to
 ```Javascript
 var input = document.querySelector('.search');
 virgule.init(input);
+```
+
+Virgule also work well with browserify
+
+```Javascript
+var virgule = require('virgule');
+virgure.init('.search');
 ```
 
 ## Options
