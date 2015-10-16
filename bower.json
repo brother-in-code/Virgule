@@ -1,0 +1,7 @@
+{
+  "name": "virgule-example",
+  "dependencies": {
+    "virgule": "~1.0.0",
+    "normalize-css": "~3.0.3"
+  }
+}
